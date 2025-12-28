@@ -1,0 +1,17 @@
+{
+    "id": "pocketid-oidc-provider",
+    "name": "PocketId OIDC Provider",
+    "author": "Spoocy99",
+    "version": "1.0.0",
+    "description": "Adds the Pocket-Id OIDC Provider",
+    "category": "plugin",
+    "url": "https://github.com/Spoocy99/Pelican-Pocket-Id",
+    "update_url": null,
+    "namespace": "Spoocy99\\PocketIdOIDCProvider",
+    "class": "PocketIdOIDCProviderPlugin",
+    "panels": null,
+    "panel_version": null,
+    "composer_packages": {
+        "socialiteproviders/pocketid": "^5.0.0"
+    }
+}
